@@ -5,7 +5,7 @@ import { UserContextProvider } from './Context/UserContext.jsx'
 import { CourseContextProvider } from './Context/CourseContext.jsx'
 
 
-export const server = "http://localhost:3000"
+export const server = " https://19b0-2401-4900-6272-6a5d-781d-9c35-b053-47bf.ngrok-free.app"
 
 
 createRoot(document.getElementById('root')).render(
