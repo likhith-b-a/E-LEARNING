@@ -6,7 +6,7 @@ import { server } from "../../main";
 import axios from "axios";
 import Loader from "../../components/Loader/Loader";
 import PlayLecture from "./PlayLecture";
-import AddLecture from "./addLecture";
+import AddLecture from "./AddLecture";
 import toast from "react-hot-toast";
 import { TiTick } from "react-icons/ti";
 
